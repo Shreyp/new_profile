@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Shreyp/new_profile#readme",
   "dependencies": {
     "express": "^4.13.4",
-    "express-sessions": "^1.0.5"
+    "express-sessions": "^1.0.5",
+    "morgan": "^1.7.0"
   }
 }
